@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and studying blockchain and its implementation and final use
 - 💞️ I’m looking to collaborate on mainly .Net projects, using c# language
 - 📫 How to reach me: pabe-it@flsmidth.com
+- NPM Repo: https://www.npmjs.com/package/jquery.request
 
 <!---
 pabe-it/pabe-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
